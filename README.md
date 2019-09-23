@@ -1,4 +1,4 @@
-# wisjao-uni
+# vue-uni
 
 ## Project setup
 ```
